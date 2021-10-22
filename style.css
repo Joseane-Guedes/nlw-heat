@@ -34,8 +34,9 @@ body {
 
 main {
   background: url(images/background.svg);
-  width: 375px;
-  height: 740px;
+  
+  width: 370px;
+  height: 700px;
   border-radius: 10px;
   background-color: blur(10px);
 }
@@ -122,13 +123,13 @@ strong:hover {
 
 /* //Responsividade */
 @media (max-width: 1080px) {
-  html {
+  html, body {
     font-size: 93.75%;
   }
 }
 
 @media (max-width: 720px) {
-  html {
+  html, body {
     font-size: 87.5%;
   }
 }
