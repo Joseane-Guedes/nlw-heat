@@ -32,7 +32,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 👩‍💻 Projeto
 
-O Crachá virtual DoWhile é uma aplicação estatica que visa demonstrar as informações do usuário trazidas do GitHub API e inseri-lás em um layout com a cara do evento DoWhile 2021. Para visualizar meu projeto final, [clique aqui](https://joseane-guedes.github.io/nlw-heat/)!
+O Crachá virtual DoWhile é uma aplicação estatica que visa demonstrar as informações do usuário trazidas do GitHub API e inseri-lás em um layout com a cara do evento DoWhile 2021. Para visualizar meu projeto final, [clique aqui](https://nlw-heat-pi.vercel.app/)!
 
 ## 🎨 Layout
 
