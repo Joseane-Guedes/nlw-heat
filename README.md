@@ -26,9 +26,9 @@
 
 Projeto desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 👩‍💻 Projeto
 
