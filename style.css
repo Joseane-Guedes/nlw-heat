@@ -1,6 +1,7 @@
 * {
   margin: 0;
-  
+  padding: 0;
+  box-sizing: border-box;
 }
 
 html,
@@ -69,6 +70,19 @@ main {
   clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
 }
 
+.rotate {
+  animation: rotate 20s linear infinite;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
 h1 {
   font-size: 1.5rem;
   margin-top: 1.5rem;
@@ -135,4 +149,16 @@ strong:hover {
   html, body {
     font-size: 87.5%;
   }
+}
+
+.badge-rope {
+
+    width: 64px;
+    height: 250px;
+    top: 0;
+    z-index: 3;
+    border-radius: 0 0 5px 5px;
+    transform: translateY(-230px);
+    background-image: var(--color-theme);
+  
 }
